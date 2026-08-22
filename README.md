@@ -48,11 +48,11 @@ crudapp/
 └── README.md
 ⚙️ Installation & Setup
 1. Clone the Repository
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/laxmi-ux/codeigniter4-ecommerce-project.git
 
 Navigate to the project:
 
-cd YOUR-REPOSITORY
+cd codeginter4-ecommerce-project
 2. Install Dependencies
 
 Make sure Composer is installed, then run:
@@ -159,22 +159,24 @@ Add to Cart / Buy Now
 Cart
   ↓
 Checkout
-📸 Screenshots
 
-Add screenshots of your application here.
 
-Example:
 
-## Screenshots
+
+
 
 ### Home Page
-![Home Page](screenshots/home.png)
+<img width="1365" height="637" alt="image" src="https://github.com/user-attachments/assets/11f0706a-a2ee-4dcf-bff0-d83c10e37e43" />
+
+
 
 ### Product Page
-![Product Page](screenshots/product.png)
+<img width="1360" height="631" alt="image" src="https://github.com/user-attachments/assets/5b1fcbff-83d2-4d4d-bae9-dda317c876c3" />
+
 
 ### Cart
-![Cart Page](screenshots/cart.png)
+<img width="1365" height="635" alt="image" src="https://github.com/user-attachments/assets/e496b56a-9c9d-4478-85ee-8a93d0a98db4" />
+
 🎯 Purpose of the Project
 
 This project was developed to practice and demonstrate:
@@ -207,9 +209,9 @@ Laxmi Pal
 Full Stack Developer Intern
 
 Connect
-GitHub: Add your GitHub profile link
-LinkedIn: Add your LinkedIn profile link
-Portfolio: Add your portfolio link
+GitHub: https://github.com/laxmi-ux/
+LinkedIn: https://www.linkedin.com/in/laxmi-pal-13a738267/
+Portfolio: https://laxmi-pal-portfolio.netlify.app/
 📄 License
 
 This project is created for learning and portfolio purposes.

@@ -173,6 +173,9 @@ Checkout
 ### Product Page
 <img width="1360" height="631" alt="image" src="https://github.com/user-attachments/assets/5b1fcbff-83d2-4d4d-bae9-dda317c876c3" />
 
+### Product Details Page
+<img width="1361" height="632" alt="image" src="https://github.com/user-attachments/assets/8a504b32-97d4-4022-9e65-7e99c5ee94d8" />
+
 
 ### Cart
 <img width="1365" height="635" alt="image" src="https://github.com/user-attachments/assets/e496b56a-9c9d-4478-85ee-8a93d0a98db4" />

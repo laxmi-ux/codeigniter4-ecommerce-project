@@ -169,7 +169,6 @@ Checkout
 <img width="1365" height="637" alt="image" src="https://github.com/user-attachments/assets/11f0706a-a2ee-4dcf-bff0-d83c10e37e43" />
 
 
-
 ### Product Page
 <img width="1360" height="631" alt="image" src="https://github.com/user-attachments/assets/5b1fcbff-83d2-4d4d-bae9-dda317c876c3" />
 
@@ -179,6 +178,14 @@ Checkout
 
 ### Cart
 <img width="1365" height="635" alt="image" src="https://github.com/user-attachments/assets/e496b56a-9c9d-4478-85ee-8a93d0a98db4" />
+
+### Checkout Page
+<img width="1365" height="637" alt="image" src="https://github.com/user-attachments/assets/d9d19838-6cfa-471f-ba08-92a44160daa5" />
+
+## Profile Page
+<img width="1360" height="640" alt="image" src="https://github.com/user-attachments/assets/475c7f11-1bee-4c64-b8cc-e12db256d2ad" />
+
+
 
 🎯 Purpose of the Project
 

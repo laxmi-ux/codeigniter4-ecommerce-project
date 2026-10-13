@@ -99,7 +99,7 @@ On Windows, you can also manually copy the `env` file and rename it to:
 
 Update the `.env` file according to your local configuration.
 
-> **Note:** Do not upload your actual `.env` file to GitHub if it contains passwords or other sensitive information. Use `.env.example` for sharing configuration details.
+
 
 ### 4. Database Setup
 
@@ -325,7 +325,7 @@ Full Stack Developer Intern
 
 * **GitHub:** https://github.com/laxmi-ux/
 * **LinkedIn:** https://www.linkedin.com/in/laxmi-pal-13a738267/
-* **Portfolio:** https://laxmi-pal-portfolio.netlify.app/
+* **Portfolio:** https://laxmirpal1.netlify.app/
 
 ## 📄 License
 
